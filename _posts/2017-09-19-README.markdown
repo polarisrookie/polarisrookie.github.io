@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Read Me"
+title:  "测试页面"
 categories: Other
 tags: Other
-author: Xixia
-description: The read me page of jekyll-xixia.
+author: kindkid
+description: The blog page of jekyll-kindkid.
 ---
 
 Jekyll Xixia
