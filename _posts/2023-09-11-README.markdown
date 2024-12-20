@@ -11,8 +11,8 @@ Jekyll kindkid
 ============
 
 在一次测试中，我发现微信投骰子功能存在显示问题，即同一个骰子不同手机显示效果不一样：
-![Xixia]({{ site.baseurl }}//assets/images/test1.jpg)
-![Xixia]({{ site.baseurl }}//assets/images/test2.jpg)
+![Xixia]({{ site.baseurl }}//assets/images/test3.jpg)
+![Xixia]({{ site.baseurl }}//assets/images/test4.jpg)
 （注：测试机速为iOS系统，kid为Android系统）
 
 出现显示问题的骰子在Android手机中显示为正常，在iOS手机中显示异常，即点数较为分散，且该骰子可被iOS微信添加至表情包里，于是进行逆向定位问题点：
